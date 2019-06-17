@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687640430083",
+    "firebase_url": "https://smarthelemtpro-e90d1.firebaseio.com",
+    "project_id": "smarthelemtpro-e90d1",
+    "storage_bucket": "smarthelemtpro-e90d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687640430083:android:f4b42d16c3b43f75",
+        "android_client_info": {
+          "package_name": "com.team_project.pro_smarthelmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687640430083-lmu2vjnta5btqs91foovn31pcm8ahvoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team_project.pro_smarthelmet",
+            "certificate_hash": "34195ff9c21d08d14cda95c9f193bd7105af0c9c"
+          }
+        },
+        {
+          "client_id": "687640430083-6u8doihlk48esj2ogdmmkte5srj02fd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxieQT7lj85fPXx0itixFK7EL6PSYumio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687640430083-6u8doihlk48esj2ogdmmkte5srj02fd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

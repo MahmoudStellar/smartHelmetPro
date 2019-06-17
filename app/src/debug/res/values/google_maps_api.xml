@@ -1,0 +1,23 @@
+<resources>
+    <!--
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=34:19:5F:F9:C2:1D:08:D1:4C:DA:95:C9:F1:93:BD:71:05:AF:0C:9C%3Bcom.team_project.pro_smarthelmet.AnonymousV1
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    34:19:5F:F9:C2:1D:08:D1:4C:DA:95:C9:F1:93:BD:71:05:AF:0C:9C
+
+    SHA-1 certificate fingerprint:
+    34:19:5F:F9:C2:1D:08:D1:4C:DA:95:C9:F1:93:BD:71:05:AF:0C:9C
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCwo4V70qY5iha3LJy2IlC4BVrmAyvNeWw</string>
+</resources>

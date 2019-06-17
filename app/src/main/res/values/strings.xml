@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">SmartHelmet</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_fullscreen">Alert</string>
+    <string name="dummy_button">I\'M OKAY</string>
+    <string name="dummy_content">ARE YOU\nHURT?</string>
+    <string name="hurt_button">YES</string>
+    <string name="title_activity_call_sms">CallSMSActivity</string>
+    <string name="title_activity_sms">SMSActivity</string>
+    <string name="not_a_user_track_now">Not a User? Track Now</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="full_name">Full Name</string>
+    <string name="createaccount">CreateAccount</string>
+    <string name="username">userName</string>
+    <string name="profile">Profile</string>
+    <string name="friends">Friends</string>
+    <string name="settings">Settings</string>
+    <string name="connect">Connect</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="tracker">Tracker</string>
+    <string name="track_your_friend">Track your friend.</string>
+    <string name="must_be_in_your_friend">You must be in your friend\'s contacts to track him.</string>
+    <string name="friend_number">Friend Number</string>
+    <string name="your_number">Your Number</string>
+    <string name="track_now">TRACK NOW</string>
+    <string name="your_message">Your message</string>
+    <string name="send">Send</string>
+    <string name="relatives_help">Relatives Help</string>
+    <string name="you_must_be_paired">You must be paired with your device to see it in the list. Pull to refresh the list.</string>
+    <string name="select_a_device">Select a device.</string>
+    <string name="scan_more">SCAN MORE</string>
+    <string name="test_test_com">test@test.com</string>
+</resources>
