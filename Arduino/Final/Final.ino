@@ -11,9 +11,9 @@ int knock3 = A0;                      // The Front piezo is connected to analog 
 unsigned long current_millis =0;      //variable to store current millis
 unsigned long previous_millis =0;     //variable to store previous millis
 
-#define time_Threshold 1000
+#define time_Threshold 5000
 
-#define ThresHold  30   // Knock ThresHold variable changed from 200 to 30 after testing
+#define ThresHold  50   // Knock ThresHold variable changed from 200 to 30 after testing
 
 
 void setup() {
